@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+HEAD
 2vetka2
 =======
 2vetka1
->>>>>>> main
+main
